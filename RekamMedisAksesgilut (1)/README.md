@@ -1,2 +1,0 @@
-# RekamMedisAksesgilut
-Created with CodeSandbox
